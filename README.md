@@ -1,4 +1,5 @@
 ⚔️ Battle Dash: Real-Time Multiplayer Action Game
+
 Battle Dash is a fast-paced, real-time multiplayer action game developed using the MERN Stack, designed for seamless gameplay across web and mobile platforms. The game leverages a high-performance WebSocket server to enhance frame synchronization and reduce lag by 50%, ensuring an immersive and responsive gaming experience.
 
 🎮 Key Features:- 
